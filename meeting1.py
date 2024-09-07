@@ -53,3 +53,13 @@ nama_pengguna = input("Siapa nama Anda? ")  # Ini akan meminta nama dari penggun
 
 # Menampilkan nama pengguna
 print("Halo, " + nama_pengguna + "!")  # Menggabungkan string dan menampilkan salam
+
+# Tugas:
+# 1. Buat sebuah program yang menerima input dari pengguna untuk:
+#    - Nama pengguna
+#    - Umur pengguna
+#    - Hobi pengguna
+# 2. Setelah itu, tampilkan hasilnya dengan format berikut:
+#    - "Halo, [Nama]! Anda berusia [Umur] tahun dan hobi Anda adalah [Hobi]."
+#    - Contoh output:
+#      Halo, Budi! Anda berusia 20 tahun dan hobi Anda adalah bermain sepak bola.
